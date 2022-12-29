@@ -1,0 +1,167 @@
+.mar-start{
+	margin-left: -300px;
+}
+
+.navb-colr{
+color: #FF6C59!important;
+}
+.bg-navb-btn-colr{
+	background-color: #FF6C59!important;
+	
+}
+
+.bg-color{
+	background: #FBFBFB;
+}
+.pos-img{
+	position: absolute;
+	top:1500px;
+	left:270px;
+	
+}
+.pos-para-sec-7{
+	position:absolute;
+	left:120px;
+	top:60px
+}
+.pos-para1-sec-7{
+	position:absolute;
+	left:120px;
+	top:150px
+}
+.pos-para-sec-8{
+	position:absolute;
+	left:120px;
+	top:110px
+}
+.pos-para1-sec-8{
+	position:absolute;
+	left:120px;
+	top:190px
+}
+.pos-para3-sec-7{
+	position:absolute;
+	left:120px;
+	top:240px
+}
+.pos-rela{
+	position: relative;
+}
+.bg-img{
+	background-image: url('../images/bg.png');
+	
+}
+.bg-img1{
+	background-image: url('../images/banner_bg-og.png');
+	width: 100%;
+	height: 400px;
+}
+.bg-img-hiring{
+	background-image: url('../images/Careers-Hero.jpg');
+	width: 100%;
+	height: 600px;
+}
+.bradcrm{
+	--bs-breadcrumb-divider:'>';
+	}
+	.breadcrum{
+position: absolute;
+left:550px;
+	}
+	.bg-color1{
+background-color: #F9F9F9;
+	}
+	.fa-end{
+	margin-left:600px;		
+	}
+	.btnn-pos{
+		position: absolute;
+		left:970px;
+		margin-top: 26px!important;
+	}
+	
+
+	.contact-buttn-pos{
+		position: absolute;
+		top: 400px;
+    left: 652px;top: 400px;
+    left: 652px;
+	}
+	@media (min-width: 768px) and  (max-width: 992px)
+{
+	.mar-start{
+		margin-left: 0px;
+
+	}
+	.pos-img {
+		position: absolute;
+		top: 1229px;
+		left: 150px;
+	}
+	.breadcrum {
+		position: absolute;
+		left: 311px;
+	}
+	.fa-pos{
+		position: absolute;
+		left:161px;
+
+	}
+	.sign-btn-pos{
+		
+		margin-left: -693px;
+		margin-top: 86px!important;
+}
+} 
+@media (max-width: 575.98px) {
+	.mar-start{
+		margin-left: 0px;
+
+	}
+	.breadcrum{
+		position: absolute;
+		left:64px;
+			}
+	.pos-para-sec-7{
+		position:absolute;
+		left:120px;
+		top:42px;
+		font-size: 10px;
+	}
+	.fa-pos{
+		position: absolute;
+		left:-248px;
+
+	}
+	.sign-btn-pos{
+		
+			margin-left: -693px;
+			margin-top: 86px!important;
+	}
+	
+	.pos-para1-sec-7{
+		position:absolute;
+		left:120px;
+		top:128px;
+		font-size: 10px;
+	}
+	.pos-para3-sec-7 {
+		position: absolute;
+		left: 120px;
+		top: 216px;
+		font-size: 10px;
+	}
+	.pos-para-sec-8 {
+		position: absolute;
+		left: 120px;
+		top: 86px;
+		font-size: 11px;
+	}
+	.pos-para1-sec-8 {
+		position: absolute;
+		left: 120px;
+		top: 183px;
+		font-size: 12px;
+	}
+	
+}
